@@ -1,0 +1,59 @@
+@startuml
+package presentation {
+    class VisualizeEvolution {
+    }
+
+    class VisualizeIndividual {
+    }
+
+    class VisualizeImage {
+    }
+
+    class evolve <<program>> {
+    }
+}
+
+package application {
+    class Population {
+    - dsps: Individuals
+    }
+
+    class FitnessFunctions <<library>> {
+    }
+
+    class SelectionMethods <<library>> {
+    }
+
+    class Individual {
+     - wavelet: Wavelet
+     - circuit: Circuit
+    }
+
+    class Wavelet {
+
+    }
+
+    class Circuit {
+    - file: VerilogFile
+    + writeToFile()
+    + runSimulation()
+    + compileToASC()
+    + getNumTimes()
+    }
+}
+
+package data {
+    class LogEvolution {
+    }
+
+    class ImageFile {
+    }
+
+    class VerilogFile {
+    }
+
+    class Config {
+    }
+}
+
+@enduml

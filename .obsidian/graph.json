@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"paper groups\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:papers  ",
+      "color": {
+        "a": 1,
+        "rgb": 10550611
+      }
+    },
+    {
+      "query": "path:\"work log\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 4374783
+      }
+    },
+    {
+      "query": "path:\"system design\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13003759
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.475571725571726,
+  "repelStrength": 10,
+  "linkStrength": 0.704261954261954,
+  "linkDistance": 134,
+  "scale": 0.31299373416878407,
+  "close": true
+}

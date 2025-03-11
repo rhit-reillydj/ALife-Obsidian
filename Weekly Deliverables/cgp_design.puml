@@ -1,0 +1,47 @@
+@startuml
+
+abstract class Circuit<T> {
+- nodes: Node[][]
+- output_indexes: int[]
+- node_ouputs: T[][]
+- is_node_evaluated: bool[][]
+- inputs: T[]
+- num_functions: int
+- mutation_rate: double
++ Circuit(nr: int, nc:int, mutation_rate: double)
++ Eval(input: T)
+- {abstract} EvalNode(index: int)
++ {abstract} GetNumComponents()
++ GetAccuracy(inputs: vec<T>, expected_outputs: vect<T>)
++ Mutate()
+}
+
+struct Node {
+- function: int
+- input1: int
+- input2: int
+}
+
+class MultiplierCircuit<double> {
+- EvalNode(index: int)
++ GetNumComponents()
+}
+
+class RecursiveMultiplierCircuit<double> {
+- EvalNode(index: int)
++ GetNumComponents()
+}
+
+class LogicCircuit<bool> {
+- EvalNode(index: int)
++ GetNumComponents()
+}
+
+Circuit -R->"*" Node
+LogicCircuit -U-|> Circuit
+MultiplierCircuit -U-|> Circuit
+RecursiveMultiplierCircuit -U-|> Circuit
+RecursiveMultiplierCircuit -R->"*" LogicCircuit
+
+
+@enduml

@@ -1,0 +1,16 @@
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store
+/uart/.qsys_edit
+/uart/src/db
+/uart/.qsys_edit
+/uart/src/incremental_db
+/uart/src/output_files
+/uart/src/simulation
+*.bak
+*.qsf
+uart/src/top_nativelink_simulation.rpt
+uart/.qsys_edit/filters.xml
+uart/.qsys_edit/preferences.xml
+*.qpf
+.obsidian/workspace.json
