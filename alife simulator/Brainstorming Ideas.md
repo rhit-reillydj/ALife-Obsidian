@@ -5,6 +5,10 @@
 * Polyworld
 * ALIEN
 * Chromaria
+* MESA
+* MABE
+* Lenia
+* DaisyWorld
 
 
 ## Possible Experiments
