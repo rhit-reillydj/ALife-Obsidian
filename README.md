@@ -1,6 +1,6 @@
-# thesis-obsidian
+# alife-learning-portfolio-obsidian
 Repository for an example ALIFE Obsidian Vault 
 
-### Paper Groups
-[[Cellular Automata - Collection]]
-[[Other]]
+### theme collections
+[[Topic-Name - Collection]]
+[[Art - Collection]]

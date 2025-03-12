@@ -1,2 +1,2 @@
-- Survey ALFE simulators and select one
-- Look into 
+- Survey ALIFE simulators and select one
+- Pick a full book to read during the term
