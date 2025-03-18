@@ -1,6 +1,6 @@
-* Share any background or relevant information
+
 # Skills
-* (I can already do)
+* 
 
 # Hobbies
 
