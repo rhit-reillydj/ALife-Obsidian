@@ -1,1 +1,0 @@
-[[Author (Year) - Copy This as a Template]] - quick summary of resource
