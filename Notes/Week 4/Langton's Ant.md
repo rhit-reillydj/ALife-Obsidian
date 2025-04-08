@@ -1,0 +1,11 @@
+- 2D Turing Machine / Cellular Automata
+	- Cells can be white or black
+	- Ant moves forward every timestep, flipping the color of the square he is on
+	- He will turn 90 degrees clockwise on a white square
+	- He will turn 90 degrees counter-clockwise on a black square
+- Behaviors
+	- Start off with simple symmetrical patterns
+	- Spirals into chaos for ~10,000 steps
+	- Repeating pattern emerges
+		- 104 step highway
+- Can be extended to more than 2 colors

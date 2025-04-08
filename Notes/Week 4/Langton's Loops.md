@@ -1,0 +1,4 @@
+- Cellular Automata with 8 states
+- 217 rules
+- Loops that create copies of themselves
+- Expands outward forever

@@ -1,0 +1,9 @@
+- Stack-based programming system (Push) utilized for genetic programming (GP)
+- Has been implemented in many programming languages (C, lisp, Python)
+- Every data type has its own stack
+	- Integers, strings, executable code
+- Genomes represent starting executable code to be pushed to the exec stack
+- Pop the top executable and run it
+	- This likely will push data to the other stacks such as int stack
+	- Future executables can pop this data from the other stacks
+- Genomes are evaluated according to their error and evolutionary algorithms are applied
