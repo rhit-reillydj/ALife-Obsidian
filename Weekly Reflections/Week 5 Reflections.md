@@ -7,4 +7,4 @@
 - Both Steven and Will talked about developmental systems. My topic for the week, gene regulatory networks, is the most core process for development in real organisms. It is what defines how an organism will grow and develop throughout its life, and the different mechanisms that different parts of its body will be capable of. AGRNs are used in ALife for similar purposes and allow for efficient development of artificial organisms, although it is not the only method.
 
 ### What would you like to learn more about?
-- Particle systems, artificial embriogeny, and gene regulatory networks were the most fascinating to me that I would like to learn more about.
+- Particle systems, artificial embriogeny, and gene regulatory networks were the most fascinating to me that I would
