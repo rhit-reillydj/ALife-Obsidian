@@ -10,13 +10,13 @@ Alex presented on emotions and their relationship to consciousness. He explained
 
 ### How does it connect to what you learned from your own work?
 
-I presented on artificial consciousness and I feel as if it tied into these other topics really well. 
+I presented on [[Understanding Artificial Consciousness - Clarifying Concepts and Advancing Research|artificial consciousness]] and I feel as if it tied into these other topics really well. 
 
-It related to Will's information theory because neural networks process and store information in their synaptic weights. If information theory is true, AI could be conscious. It related to functionalism because if all consciousness is is the functions that arise from it, any AI that mimicked these functions would be conscious.
+It related to Will's information theory because neural networks process and store information in their synaptic weights. If information theory is true, AI could be conscious. It related to [[How the philosophy of mind and consciousness has affected AI research|functionalism]] because if all consciousness is is the functions that arise from it, any AI that mimicked these functions would be conscious.
 
 Artificial consciousness related to Steven's talk because he detailed some of the necessary conditions and attributes of consciousness which could help guide artificial consciousness. It particularly related to active inference because active inference is exactly how neural networks training on labeled data or reinforcement learning learn. They make predictions and then adjust their weights to make a better prediction next time.
 
-Artificial consciousness related to emotions because emotions seems to be a critical part of an organism becoming conscious. This implies that one of the milestones toward AC would be imbuing emotion into an AI.
+Artificial consciousness related to emotions because emotions seems to be a critical part of an organism becoming conscious. This implies that one of the [[The Path to Sentient Robots - AI Consciousness in the Light of New Insights|milestones toward AC]] would be imbuing emotion into an AI.
 
 ### What would you like to learn more about?
 
